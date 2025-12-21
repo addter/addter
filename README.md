@@ -56,6 +56,16 @@ Personal website showcasing projects and technical experience.
 
 ---
 
+## 🖼 Project Previews
+
+### Twitter Data Analysis
+![Twitter Analysis](images/twitter-poster.png)
+
+### Neo4j Graph Database Project
+![Neo4j Graph](images/neo4j-graph.png)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
