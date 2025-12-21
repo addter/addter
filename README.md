@@ -79,3 +79,10 @@ Personal website showcasing projects and technical experience.
 ---
 
 ⭐ Always learning, building, and improving through practical projects.
+
+---
+
+<p align="center">
+  <img src="https://github.com/addter/addter/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
