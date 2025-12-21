@@ -7,10 +7,11 @@
   <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow" />
   <img src="https://img.shields.io/badge/Microsoft%20365-Admin-orange" />
   <img src="https://img.shields.io/badge/Azure-Fundamentals-blue" />
+  <img src="https://img.shields.io/badge/Windows-10%2F11-blue" />
 </p>
 
 <p align="center">
-  Turning data into insights and solving real-world IT problems.
+  Turning data into insights and delivering reliable ICT support solutions.
 </p>
 
 ---
@@ -18,9 +19,9 @@
 ## 💡 About Me
 
 - 🎓 Master’s in Information Systems & Data Science  
-- 📊 Strong interest in data analysis, dashboards, and reporting  
+- 📊 Focused on data analysis, dashboards, and reporting  
 - 🖥 Hands-on experience in ICT support, Microsoft 365, and device setup  
-- 🌱 Currently growing skills in Azure and enterprise IT environments  
+- 🌱 Continuously growing skills in Azure and enterprise IT environments  
 
 ---
 
