@@ -2,32 +2,40 @@
 <h3 align="center">Data Analyst | ICT Support Engineer</h3>
 
 <p align="center">
-Building practical data solutions and hands-on IT support projects.
+  <img src="https://img.shields.io/badge/Python-3.10-blue" />
+  <img src="https://img.shields.io/badge/SQL-Data-blue" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-Admin-orange" />
+  <img src="https://img.shields.io/badge/Azure-Fundamentals-blue" />
 </p>
 
-
-## 💡 What I Do
-
-- 📊 Analyze data and build dashboards for insights and decision-making  
-- 🖥 Provide ICT support including Microsoft 365, Windows, and device setup  
-- 🌐 Work with networking basics, access points, and troubleshooting  
-- 🚀 Continuously learning Azure and modern IT tools
+<p align="center">
+  Turning data into insights and solving real-world IT problems.
+</p>
 
 ---
 
+## 💡 About Me
+
+- 🎓 Master’s in Information Systems & Data Science  
+- 📊 Strong interest in data analysis, dashboards, and reporting  
+- 🖥 Hands-on experience in ICT support, Microsoft 365, and device setup  
+- 🌱 Currently growing skills in Azure and enterprise IT environments  
+
+---
 
 ## 🛠 Skills
 
-**Data & Analytics**
+### 📊 Data & Analytics
 - Python • SQL • Power BI • Excel  
 - Data Cleaning • Visualization • Reporting  
 
-**ICT / IT Support**
-- Microsoft 365 • Windows 10/11  
+### 🖥 ICT / IT Support
+- Microsoft 365 (Users, Mailboxes, Basic Admin)  
+- Windows 10/11 Troubleshooting  
 - Hardware • Printers • Peripherals  
 - Networking Basics • PoE • Access Points  
 - Azure Fundamentals (AZ-900)
-
 
 ---
 
@@ -45,20 +53,14 @@ Graph data modeling and relationship analysis using Neo4j.
 🔹 **Portfolio Website**  
 Personal website showcasing projects and technical experience.
 
-
 ---
-
-⭐ *Always learning and building practical, real-world projects.*
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=addter&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
 </p>
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Admin-orange)
-![Azure](https://img.shields.io/badge/Azure-Fundamentals-blue)
+---
 
-
+⭐ Always learning, building, and improving through practical projects.
