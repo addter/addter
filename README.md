@@ -58,18 +58,22 @@ Personal website showcasing projects and technical experience.
 
 ## 🖼 Project Previews
 
-### Twitter Data Analysis
-![Twitter Analysis](images/twitter-poster.png)
+<p>
+  <b>🐦 Twitter Data Analysis</b><br />
+  <img src="images/twitter-poster.png" width="700" alt="Twitter Data Analysis preview" />
+</p>
 
-### Neo4j Graph Database Project
-![Neo4j Graph](images/neo4j-graph.png)
+<p>
+  <b>🔗 Neo4j Graph Database Project</b><br />
+  <img src="images/neo4j-graph.png" width="700" alt="Neo4j Graph preview" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=addter&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=addter&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
 ---
