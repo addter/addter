@@ -82,7 +82,3 @@ Personal website showcasing projects and technical experience.
 
 ---
 
-<p align="center">
-  <img src="https://github.com/addter/addter/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
