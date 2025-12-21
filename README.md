@@ -58,7 +58,7 @@ Personal website showcasing projects and technical experience.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=addter&show_icons=true&theme=default" />
 </p>
 
 ---
