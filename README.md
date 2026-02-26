@@ -70,10 +70,10 @@ Personal website showcasing projects and technical experience.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=addter&show_icons=true&theme=transparent&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=addter&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
