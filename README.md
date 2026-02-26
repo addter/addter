@@ -73,7 +73,7 @@ Personal website showcasing projects and technical experience.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=addter&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=addter&theme=default&cache_seconds=86400&v=2" alt="GitHub Streak" />
 </p>
 
 ---
